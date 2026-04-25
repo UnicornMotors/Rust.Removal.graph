@@ -1,0 +1,7 @@
+- [Rust Removal Methods Explained](https://youtu.be/Qi-tK1jwO-k)
+- [Rust Removal Experiments: Citric Acid, Cider Vinegar, Rostio](https://youtu.be/jqN5zY_T2Kc)
+- https://youtu.be/Gi4DqtpYAOI
+- https://youtu.be/jqN5zY_T2Kc
+- https://youtu.be/HN590K81D5c
+- https://youtu.be/09ck7R9zvUw
+- 
