@@ -5,3 +5,7 @@
 
 
 - [Best tool for Heavy Rust Removal , Scaly, Thick Rust](https://youtu.be/dCEdhlDteJo)
+
+# People.
+## [@ElementalMaker](https://m.youtube.com/@ElementalMaker)
+- [Best Rust Removal Method? Evaporust vs Electrolysis vs Grinder with Wire Cup](https://youtu.be/INZbKdQpON0)
